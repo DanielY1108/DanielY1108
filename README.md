@@ -1,5 +1,4 @@
-<a href="https://ios-daniel-yang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  
+<a href="mailto:https://scarlet040@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
 <a href="https://ios-daniel-yang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 #
