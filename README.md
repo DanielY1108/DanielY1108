@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/https://ios-daniel-yang.tistory.com/?style=flat-square&logo=Gmail&logoColor=white"/>
 
 #
 <div>
