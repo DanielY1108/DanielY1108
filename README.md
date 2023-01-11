@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome&fontAlignY=40&desc=JinSeok's%20Github%20Profile&descAlign=60&descAlignY=56&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome&fontAlignY=40&desc=JinSeok's%20GitHub%20Profile&descAlign=60&descAlignY=56&fontSize=90)
 <br>
 <a href="mailto:https://scarlet040@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <br>
