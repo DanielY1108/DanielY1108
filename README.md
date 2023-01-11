@@ -1,4 +1,7 @@
-<a href="mailto:https://scarlet040@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Welcome&fontAlignY=40&desc=JinSeok's%20Github%20Profile&descAlign=60&descAlignY=56&fontSize=90)
+<br>
+<a href="mailto:https://scarlet040@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/scarlet040@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<br>
 <a href="https://ios-daniel-yang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 #
@@ -7,7 +10,8 @@
 <h5> Language & Tools </h5>
   <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <br><br>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <br>
