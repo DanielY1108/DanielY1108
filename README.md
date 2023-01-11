@@ -8,8 +8,8 @@
 
 #
 
-  <h3> :fire: Skills </h3>
-  <h5> Language & Tools </h5>
+  <h3> :fire: Skills :fire: </h3>
+  <h5> :hourglass_flowing_sand: Language & Tools :hourglass: </h5>
   <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <br><br>
